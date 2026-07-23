@@ -1,1 +1,1 @@
-# Data-structure-in-c
+# Data-structure single linked list
